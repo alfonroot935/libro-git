@@ -1,3 +1,4 @@
-capitulo 1: Introduccion a git
-capitulo2: Flujo de trabajo basico
-capitulo 3:[A[D[D [A[B[D[D 2:[C[D F[F[C[C[D[DCap[2~[C[C[C[B[C[C[C[C[C[C[Cl[B[A[2~ujo de trabajo baisco[B[B[D[A[B[B[B[B[B[B[B[A[A[A[A[A[A[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DRepsitorios remotos
+capitulo 1 : Introduccion a git
+capitulo 2 : Flujo de trabajo basico
+capitulo 3 : gestion de ramas
+capitulo 4 : repositorios remotos
