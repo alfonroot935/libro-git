@@ -1,0 +1,39 @@
+diff --git a/capitulos/capitulo1.txt b/capitulos/capitulo1.txt
+new file mode 100644
+index 0000000..7ebf737
+--- /dev/null
++++ b/capitulos/capitulo1.txt
+@@ -0,0 +1 @@
++git es un sistema de control de versiones ideado por linus torvalds
+\ No newline at end of file
+diff --git a/capitulos/capitulo3.txt b/capitulos/capitulo3.txt
+new file mode 100644
+index 0000000..85d4844
+--- /dev/null
++++ b/capitulos/capitulo3.txt
+@@ -0,0 +1 @@
++Git permite la creacion de ramas lo que permite tener distinta[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[C[C[[3~[3~rsiones del mismo proyecto y trabajar d emanera simultanea en ellas.
+diff --git a/capitulos/capitulos2.txt b/capitulos/capitulos2.txt
+new file mode 100644
+index 0000000..5438436
+--- /dev/null
++++ b/capitulos/capitulos2.txt
+@@ -0,0 +1,4 @@
++El frlujo de trabajo basico con git consiste en:
++1. hacer cambioes en el repositorio.
++2. añadir los cambios en la zona de intercambio temporal.
++3. hacer un commit de los cambios.
+\ No newline at end of file
+diff --git a/indice.txt b/indice.txt
+index 8dd4c0a..5c3a344 100644
+--- a/indice.txt
++++ b/indice.txt
+@@ -1,3 +1,4 @@
+-capitulo 1: Introduccion a git
+-capitulo2: Flujo de trabajo basico
+-capitulo 3:[A[D[D [A[B[D[D 2:[C[D F[F[C[C[D[DCap[2~[C[C[C[B[C[C[C[C[C[C[Cl[B[A[2~ujo de trabajo baisco[B[B[D[A[B[B[B[B[B[B[B[A[A[A[A[A[A[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[DRepsitorios remotos
+\ No newline at end of file
++capitulo 1 : Introduccion a git
++capitulo 2 : Flujo de trabajo basico
++capitulo 3 : gestion de ramas
++capitulo 4 : repositorios remotos
